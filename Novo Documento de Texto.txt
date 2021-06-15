@@ -1,0 +1,37 @@
+<html>
+<meta charset="utf-8">
+	<head>
+		<img src="imagem1.jpg "height="75%" width="100%"></>
+		<h1 align="left">David Raposo</h1>
+		<img src="david.jpg "height="35%" width="25%" align="left"></>
+		<title> Site do David </title>
+	</head>
+	<body style="background-color:gray;">
+		<h2 sytle="color:cyan;" align="center"> HEHEHEHEH </h1>
+		<p align="center"> Deja Vu!<br></br>
+			I've just been in this place before<br></br>
+			(Higher on the street)<br></br>
+			And I know it's my time to go<br></br>
+			Calling you, and the search is a mystery<br></br>
+			(Standing on my feet)<br></br>
+			It's so hard when I try to be me, woah</p>
+			<p align="center"> <a href="https://www.youtube.com/watch?v=dv13gl0a-FA"> Whooooaaa!!!!!!!!!!!!!!!!! </a> </p>
+				
+		<br></br>
+		
+	</body>
+
+	<footer>
+		<p align="center">Feito por: David Raposo</p>
+		<p align="center">E-mail: <a href="mailto:raposodavid75@gmail.com"> raposodavid755@gmail.com </a> </p>
+		<p align="center"> |--- <a href="file:///C:/Users/David%20Raposo/Desktop/site/index.html"> NAO CLIQUES </a> ---|  |--- <a href="https://www.youtube.com"> VAI ESTUDAR! </a> ---|</p>
+		
+
+
+
+		
+	</footer>
+
+
+
+</html>
